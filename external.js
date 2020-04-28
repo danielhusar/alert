@@ -1,1 +1,1 @@
-hello from external script
+alert('hello from external script')
